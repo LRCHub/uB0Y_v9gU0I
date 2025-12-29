@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "I LOVE YOU",
+  "base_artist": "Chris Hart",
+  "createdAt": "2025-12-29T08:06:13.668871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ily (i love you baby) [feat. Emilee]",
+      "artist": "Surf Mesa",
+      "has_synced": true,
+      "path": "select/01_ily_(i_love_you_baby)_[feat._Emilee]_Surf_Mesa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "But You Know I Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/02_But_You_Know_I_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Be Stupid (You Know I Love You)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/03_Don't_Be_Stupid_(You_Know_I_Love_You)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't You Know How Much I Love You",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/04_Don't_You_Know_How_Much_I_Love_You_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/05_I_Love_You_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Love You More",
+      "artist": "Avery Anna",
+      "has_synced": true,
+      "path": "select/06_I_Love_You_More_Avery_Anna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love You More",
+      "artist": "Avery Anna",
+      "has_synced": true,
+      "path": "select/07_I_Love_You_More_Avery_Anna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love You More Today",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/08_I_Love_You_More_Today_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/09_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/10_That's_When_I_Love_You_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": false,
+      "path": "select/11_That's_When_I_Love_You_Phil_Vassar.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/12_I_Love_You_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fuck it I love you",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/13_Fuck_it_I_love_you_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Love You Always Forever",
+      "artist": "Donna Lewis",
+      "has_synced": true,
+      "path": "select/14_I_Love_You_Always_Forever_Donna_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love You Because",
+      "artist": "Jim Reeves",
+      "has_synced": true,
+      "path": "select/15_I_Love_You_Because_Jim_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/16_I_Love_You_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cuz I Love You",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/17_Cuz_I_Love_You_Lizzo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_01_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_02_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_03_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_04_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_05_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_06_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_07_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_08_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_09_I_LOVE_YOU_クリス・ハート.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "クリス・ハート",
+      "has_synced": false,
+      "path": "select/pl_10_I_LOVE_YOU_クリス・ハート.txt"
+    }
+  ]
+}
